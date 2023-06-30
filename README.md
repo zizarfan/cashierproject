@@ -10,6 +10,7 @@ This program is built for customer who wants to purchase groceries online.
 4. Documenting the process in GitHub.
 
 ## Flowchart
+![Super Cashier flowchart (1)](https://github.com/zizarfan/cashierproject/assets/136688677/a7f7d969-9fb1-4aa3-b920-4c13ba9a08ba)
 
 ## Process
 1. Creating ID Transaction for customer
@@ -22,17 +23,30 @@ This program is built for customer who wants to purchase groceries online.
 8. Calculating the total payment
 
 ## Snippet Code
+<img width="602" alt="image" src="https://github.com/zizarfan/cashierproject/assets/136688677/e9e0f427-7186-47e9-9f92-426c4e76a1e9">
 
 ## Test Case Result
-##### Create ID Transaction
-##### Add New Items
-##### Update Item's Name
-##### Update Item's Quantity
-##### Update Item's Price
-##### Check Order
-##### Delete Certain Item
-##### Reset Transaction
-##### Display Total Amount of Payment
+
+##### 1. Create ID Transaction
+<img width="531" alt="image" src="https://github.com/zizarfan/cashierproject/assets/136688677/df5faa19-42cc-4a77-98df-b722a38fe261">
+
+##### 2. Add New Items
+<img width="375" alt="image" src="https://github.com/zizarfan/cashierproject/assets/136688677/414b9ce0-7b48-400a-adcb-5530bc476aea">
+
+##### 3. Update Item's Name, Quantity, and Price
+<img width="410" alt="image" src="https://github.com/zizarfan/cashierproject/assets/136688677/f621a5cb-af96-49f9-9f2c-50bb617b5c81">
+
+##### 4. Check Order
+<img width="326" alt="image" src="https://github.com/zizarfan/cashierproject/assets/136688677/56fffd3a-1e9e-4910-a68c-bee37a9d1b8f">
+
+##### 5. Delete Certain Item
+<img width="355" alt="image" src="https://github.com/zizarfan/cashierproject/assets/136688677/37a2f97d-4af5-4f8f-8d0d-f08939d1812c">
+
+##### 6. Reset Transaction
+<img width="228" alt="image" src="https://github.com/zizarfan/cashierproject/assets/136688677/025dfa1a-bd11-4d39-b0ef-5f1ff1be53e2">
+
+##### 7. Display Total Amount of Payment
+<img width="662" alt="image" src="https://github.com/zizarfan/cashierproject/assets/136688677/59ecef24-53ab-431d-9c46-79788e9d428a">
 
 
 ## Conclusion
