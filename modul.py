@@ -24,6 +24,10 @@ class Transaction():
       self.item_name.append(nama.lower())
       self.item_qty.append(jumlah)
       self.item_price.append(harga)
+      cart = dict()
+      for i in range(len(self.item_name)):
+        cart[self.item_name[i]] = [self.item_qty[i], self.item_price[i]]
+      print('Your order summary: \n', cart)
 
 #Mengupdate nama item
   def update_item_name(self, current_name, new_name):
