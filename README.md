@@ -10,7 +10,8 @@ This program is built for customer who wants to purchase groceries online.
 4. Documenting the process in GitHub.
 
 ## Flowchart
-![Super Cashier flowchart (1)](https://github.com/zizarfan/cashierproject/assets/136688677/a7f7d969-9fb1-4aa3-b920-4c13ba9a08ba)
+![Super Cashier flowchart](https://github.com/zizarfan/cashierproject/assets/136688677/851f2c23-7c20-4795-bd66-ed25a1924373)
+
 
 ## Process
 1. Creating ID Transaction for customer
