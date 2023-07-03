@@ -24,8 +24,8 @@ This program is built for customer who wants to purchase groceries online.
 8. Calculating the total payment
 
 ## Snippet Code
-1. script main.py is used to execute functions on modul.py.
-2, script modul.py is used to run functions in the list below:
+1. Script main.py is used to execute functions on modul.py.
+2. Script modul.py is used to run functions in the list below:
 <img width="602" alt="image" src="https://github.com/zizarfan/cashierproject/assets/136688677/e9e0f427-7186-47e9-9f92-426c4e76a1e9">
 
 ## Test Case Result
