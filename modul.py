@@ -24,6 +24,7 @@ class Transaction():
     3. To To delete items, use .delete_item()\n\
     4. To delete all items, use .reset_transaction()\n\
     5. To display the total bill, use .total_price() ')
+    print(f':::Welcome to Online Supermarket::: \n\nYour ID Transaction number is {id_generator} \n This 2-digit number will be added into the bill for unique code \n\n1. To put items in shopping cart, use .add_item(<item name>, <item quantity>, <item price>)\n2. To check whether the entries are correct, use .check_order()\n3. To To delete items, use .delete_item()\n4. To delete all items, use .reset_transaction()\n5. To display the total bill, use .total_price() ')
 
 #Menambahkan item pada shopping cart
   def add_item(self, nama, jumlah, harga):
