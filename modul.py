@@ -122,5 +122,5 @@ class Transaction():
       else:
         total_bill = total_bill + self.__current_id
       print(f'Here is your total amount of payment: Rp {total_bill}')
-    except (ValueError, TypeError):
+    except:
       print('Errors in data entry - Please make sure you have input item data in the shopping cart correctly.')
